@@ -1,0 +1,16 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN STACK eCommerce application",
+  "type":"module",
+  "main": "server.js",
+  "scripts": {
+    "start":"node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ann-K-T/proshop-v1.git"
+  },
+  "author": "Ann Thomas",
+  "license": "MIT"
+}
